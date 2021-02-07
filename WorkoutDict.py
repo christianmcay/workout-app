@@ -1,4 +1,4 @@
-def workout():
+def exerciselist():
     
     Lowerbody = ["Barbell Squat", "Deadlift", "Romanian Deadlift", "Bodyweight Squat", "Single Leg Deadlift",
                  "Goodmorning", "Calf raise", "Forward Lunge", "Reverse Lunge", "Bulgarian Split Squat","Goblet Squat",
@@ -9,6 +9,6 @@ def workout():
         
     print(f"These are all the exercises that can be programmed for lower body\n {Lowerbody}\n and upper body\n {Upperbody}")
 
-workout()
+exerciselist()
         
 
