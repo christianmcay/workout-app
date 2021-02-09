@@ -1,8 +1,8 @@
 day,day_num,exericse1,exercise2,exericise3,accessories
-Monday,1
-Tuesday,2
-Wednesday,3
-Thursday,4
-Friday,5
-Saturday,6
-Sunday,7
+Monday,1,null,null,null,null
+Tuesday,2,null,null,null,null
+Wednesday,3,null,null,null,null
+Thursday,4,null,null,null,null
+Friday,5,null,null,null,null
+Saturday,6,null,null,null,null
+Sunday,7,null,null,null,null
